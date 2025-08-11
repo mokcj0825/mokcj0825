@@ -15,7 +15,7 @@ Kardia Project - Somewhat maybe very cool. At least from my perspective. A fan g
 - 🌱 I’m currently learning ...
 Lots. React, Express, Kotlin. French, Korean, Japanese, Flute, Classical guitar.
 
-## Some principles (For my personal project):
+## Some principles (?) (For my personal project):
 - No Magic Values: All numbers, strings, and configurations must be managed via constants, environment variables, configuration files, or dependency injection.
 - Scalability as the Highest Priority: Scalability must be the most important priority above all else, even if it means violating any best practices. The solution should be designed to scale efficiently at all costs.
 - No Assumptions in Code: Default values, edge cases, and input/output formats must be externally provided via parameters, configurations, or external inputs—nothing should be hardcoded.
